@@ -1,12 +1,11 @@
-# Multimodal brain imaging of insomnia, depression and anxiety symptoms: transdiagnostic commonalities and differences
+## Multimodal brain imaging of insomnia, depression, and anxiety symptoms
+This repository contains scripts used for generating all results and figures featured in the manuscript "Multimodal brain imaging of insomnia, depression, and anxiety symptoms: transdiagnostic commonalities and differences" and its supplementary materials.
 
-## Corresponding paper
-> [Multimodal brain imaging of insomnia, depression and anxiety symptoms: transdiagnostic commonalities and differences](https://doi.org/10.1101/2024.08.30.610439) \
-> Siemon C. de Lange, Elleke Tissink, Tom Bresser, Jeanne E. Savage, Danielle Posthuma, Martijn P. van den Heuvel, Eus J.W. van Someren - *bioRxiv* 2024
+## Corresponding Paper
+[Multimodal brain imaging of insomnia, depression, and anxiety symptoms: transdiagnostic commonalities and differences](https://doi.org/10.1101/2024.08.30.610439) \
+Siemon C. de Lange, Elleke Tissink, Tom Bresser, Jeanne E. Savage, Danielle Posthuma, Martijn P. van den Heuvel, Eus J.W. van Someren - *bioRxiv* 2024
 
-## Scripts
-This repository contains the scripts used to generate all results and figures in the manuscript and supplementary materials.
-
-## External software tools used
-The scripts include an adapted version of the `fdr` function written by Winler (see [brainder.org](https://brainder.org/2011/09/05/fdr-corrected-fdr-adjusted-p-values/)) and use the [`cbrewer` toolbox](https://nl.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2).
-
+## External Tools
+The scripts utilize:
+- An adapted `fdr` function by Winler, the original function is available at [brainder.org](https://brainder.org/2011/09/05/fdr-corrected-fdr-adjusted-p-values/).
+- The [`cbrewer` toolbox](https://nl.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2) for MATLAB.
