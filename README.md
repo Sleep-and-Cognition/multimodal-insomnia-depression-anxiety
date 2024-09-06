@@ -7,5 +7,5 @@ Siemon C. de Lange, Elleke Tissink, Tom Bresser, Jeanne E. Savage, Danielle Post
 
 ## External Tools
 The scripts utilize:
-- An adapted `fdr` function by Winler, the original function is available at [brainder.org](https://brainder.org/2011/09/05/fdr-corrected-fdr-adjusted-p-values/).
+- An adapted `fdr` function written by Winkler, the original function is available at [brainder.org](https://brainder.org/2011/09/05/fdr-corrected-fdr-adjusted-p-values/).
 - The [`cbrewer` toolbox](https://nl.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2) for MATLAB.
