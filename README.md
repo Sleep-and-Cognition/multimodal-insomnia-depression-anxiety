@@ -2,7 +2,7 @@
 This repository contains scripts used for generating all results and figures featured in the manuscript "Multimodal brain imaging of insomnia, depression, and anxiety symptoms indicates transdiagnostic commonalities and differences" and its supplementary materials.
 
 ## Corresponding Paper
-[Multimodal brain imaging of insomnia, depression, and anxiety symptoms indicates transdiagnostic commonalities and differences]([https://doi.org/10.1101/2024.08.30.610439](https://doi.org/10.1038/s44220-025-00412-8)) \
+[Multimodal brain imaging of insomnia, depression, and anxiety symptoms indicates transdiagnostic commonalities and differences](https://doi.org/10.1038/s44220-025-00412-8) \
 Siemon C. de Lange, Elleke Tissink, Tom Bresser, Jeanne E. Savage, Danielle Posthuma, Martijn P. van den Heuvel, Eus J.W. van Someren - *Nature Mental Health* 2025
 
 ## External Tools
